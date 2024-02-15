@@ -6,6 +6,6 @@ Download: ➤ [GifExtract](https://github.com/chris1111/GifExtract/raw/Master/Gi
 
 Script Main: ➤ [Main script](https://github.com/chris1111/GifExtract/blob/Master/Sources/Contents/Resources/Scripts/main.scpt)
 
-- <img src="Screenshot1.png">
+<img src="Screenshot1.png">
 
 <img src="/Screenshot2.png">
