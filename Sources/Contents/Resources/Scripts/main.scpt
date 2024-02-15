@@ -66,7 +66,7 @@ delay 0.5
 tell application "GifExtract"
 	activate
 end tell
-set theAction to button returned of (display dialog "Do you whant convert gif's frame to .PNG?
+set theAction to button returned of (display dialog "Do you want convert gif's frame to .PNG?
 " with icon note buttons {"No", "Convert"} default button ("Convert"))
 if theAction = "No" then
 	do shell script "open " & dest
