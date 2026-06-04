@@ -1,5 +1,8 @@
 # Applescript create by chris1111
 # GifExtract Copyright (c) 2024, 2026 chris1111 All rights reserved.
+display dialog "Welcome GifExtract
+To use this program you must have python3 installed; otherwise quit and install python3." with icon note buttons {"Quit", "OK"} default button ("OK") cancel button "Quit"
+
 tell application "GifExtract"
 	activate
 end tell
